@@ -1,0 +1,41 @@
+PERSONAL PORTFOLIO
+
+.__                          ._____.                                
+|  |__  __ __  ____   ____   |__\_ |__ _____    ____   ____ ________
+|  |  \|  |  \/ ___\ /  _ \  |  || __ \\__  \  /    \_/ __ \\___   /
+|   Y  \  |  / /_/  >  <_> ) |  || \_\ \/ __ \|   |  \  ___/ /    / 
+|___|  /____/\___  / \____/  |__||___  (____  /___|  /\___  >_____ \
+     \/     /_____/                  \/     \/     \/     \/      \/
+
+
+Hugo Ibanez
+_______________________________________________________________________________
+
+DESIGNER 
+
+Hamish Williams
+Hand crafted design & web development
+
+Design tools:
+Figma
+Photoshop
+Blender
+
+twitter.com/hamishmw
+github.com/hamishmw
+
+_______________________________________________________________________________
+
+TECHNOLOGY
+
+React
+Next.js
+Three.js
+Framer Motion
+
+_______________________________________________________________________________
+
+FONTS
+
+Gotham
+Hiragino Kaku Gothic
