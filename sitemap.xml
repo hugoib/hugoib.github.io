@@ -1,22 +1,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://hamishw.com/</loc>
+    <loc>https://hugoib.github.io//</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://hamishw.com/articles/</loc>
+    <loc>https://hugoib.github.io//articles/</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://hamishw.com/articles/adorsys</loc>
+    <loc>https://hugoib.github.io//articles/adorsys</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://hamishw.com/articles/hiwi</loc>
+    <loc>https://hugoib.github.io//articles/hiwi</loc>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://hamishw.com/articles/hiwi0</loc>
+    <loc>https://hugoib.github.io//articles/hiwi0</loc>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
