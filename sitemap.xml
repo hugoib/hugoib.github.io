@@ -8,6 +8,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hugoib.github.io//articles/YPFB</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hugoib.github.io//articles/adorsys</loc>
     <changefreq>monthly</changefreq>
   </url>
@@ -17,6 +21,22 @@
   </url>
   <url>
     <loc>https://hugoib.github.io//articles/hiwi0</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hugoib.github.io//articles/honda</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hugoib.github.io//articles/limmersio</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hugoib.github.io//articles/quickEmoji</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://hugoib.github.io//articles/sambodromo</loc>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
