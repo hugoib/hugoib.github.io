@@ -39,4 +39,8 @@
     <loc>https://hugoib.github.io//articles/sambodromo</loc>
     <changefreq>monthly</changefreq>
   </url>
+  <url>
+    <loc>https://hugoib.github.io//articles/thesis</loc>
+    <changefreq>monthly</changefreq>
+  </url>
 </urlset>
