@@ -32,6 +32,10 @@
     <changefreq>monthly</changefreq>
   </url>
   <url>
+    <loc>https://hugoib.github.io//articles/mojix</loc>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
     <loc>https://hugoib.github.io//articles/quickEmoji</loc>
     <changefreq>monthly</changefreq>
   </url>
